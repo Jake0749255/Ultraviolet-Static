@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/uv/service/',
-    bare: 'http://212.227.65.132:14976/', 
+    bare: 'http://212.227.65.132:14976/bare/', 
     encodeUrl: JavaScriptObfuscator.encode,
     decodeUrl: JavaScriptObfuscator.decode,
     handler: '/uv/uv.handler.js',
